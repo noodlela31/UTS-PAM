@@ -1,4 +1,4 @@
-# UTS-PAM (todoList)
+# UTS-PAM (ROG STORE)
 
 ## Author
 
@@ -7,7 +7,7 @@ Kelas : RB
 
 ### Description
 
-todoList adalah sebuah aplikasi untuk mencatat hal-hal yang ingin dilakukan sehari-hari
+ROG STORE adalah aplikasi yang menyediakan informasi terkait spek dan harga laptop ROG
 
 ### Dependencies
 
