@@ -2,7 +2,7 @@
 
 ## Author
 
-Ferdy. M - 120140098
+Mila Oktaviaini - 120140021
 Kelas : RB
 
 ### Description
@@ -21,7 +21,7 @@ todoList adalah sebuah aplikasi untuk mencatat hal-hal yang ingin dilakukan seha
 1. Clone this repository
 
 ```bash
-https://github.com/verdia20/uts-pam
+https://github.com/noodlela31/UTS-PAM
 ```
 
 2. Install all dependencies
